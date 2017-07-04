@@ -1,0 +1,5 @@
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerColumnstoreSample\obj\Debug\SqlServerColumnstoreSample.csprojResolveAssemblyReference.cache
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerColumnstoreSample\bin\Debug\SqlServerColumnstoreSample.exe
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerColumnstoreSample\bin\Debug\SqlServerColumnstoreSample.pdb
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerColumnstoreSample\obj\Debug\SqlServerColumnstoreSample.exe
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerColumnstoreSample\obj\Debug\SqlServerColumnstoreSample.pdb
