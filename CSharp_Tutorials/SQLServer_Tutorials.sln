@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerSample", "SqlServe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerSample2", "SqlServerSample2\SqlServerSample2.csproj", "{279DCE3A-FAB4-49B5-9222-D52BC007103B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerEFSample", "SqlServerEFSample\SqlServerEFSample.csproj", "{CD19C159-55C2-4120-A4AB-58DE3F407AEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{279DCE3A-FAB4-49B5-9222-D52BC007103B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279DCE3A-FAB4-49B5-9222-D52BC007103B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279DCE3A-FAB4-49B5-9222-D52BC007103B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD19C159-55C2-4120-A4AB-58DE3F407AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD19C159-55C2-4120-A4AB-58DE3F407AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD19C159-55C2-4120-A4AB-58DE3F407AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD19C159-55C2-4120-A4AB-58DE3F407AEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

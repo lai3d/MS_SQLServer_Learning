@@ -5,6 +5,5 @@ C:\Develop\MS_SQLServer_Learning\SQLServer_Tutorials\SqlServerSample\obj\Debug\S
 C:\Develop\MS_SQLServer_Learning\SQLServer_Tutorials\SqlServerSample\obj\Debug\SqlServerSample.pdb
 C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample\bin\Debug\SqlServerSample.exe
 C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample\bin\Debug\SqlServerSample.pdb
-C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample\obj\Debug\SqlServerSample.csprojResolveAssemblyReference.cache
 C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample\obj\Debug\SqlServerSample.exe
 C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample\obj\Debug\SqlServerSample.pdb

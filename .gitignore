@@ -5,3 +5,7 @@ Python/SqlServerSample/.idea/SqlServerSample.iml
 Python/SqlServerSample/.idea/misc.xml
 Python/SqlServerSample/.idea/modules.xml
 Python/SqlServerSample/.idea/workspace.xml
+CSharp_Tutorials/SqlServerEFSample/bin/Debug/EntityFramework.SqlServer.xml
+CSharp_Tutorials/SqlServerEFSample/bin/Debug/EntityFramework.xml
+CSharp_Tutorials/SqlServerEFSample/bin/Debug/SqlServerEFSample.exe.config
+CSharp_Tutorials/SqlServerEFSample/obj/Debug/SqlServerEFSample.csproj.FileListAbsolute.txt
