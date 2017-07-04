@@ -94,7 +94,7 @@ namespace SqlServerColumnstoreSample
                     Performance improvement with columnstore index: 20x!
                     All done. Press any key to finish...
 
-                 * /
+                 */
             }
             catch (Exception e)
             {
