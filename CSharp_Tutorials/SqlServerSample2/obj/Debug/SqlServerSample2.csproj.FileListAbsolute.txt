@@ -1,0 +1,5 @@
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample2\bin\Debug\SqlServerSample2.exe
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample2\bin\Debug\SqlServerSample2.pdb
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample2\obj\Debug\SqlServerSample2.csprojResolveAssemblyReference.cache
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample2\obj\Debug\SqlServerSample2.exe
+C:\Develop\MS_SQLServer_Learning\CSharp_Tutorials\SqlServerSample2\obj\Debug\SqlServerSample2.pdb
